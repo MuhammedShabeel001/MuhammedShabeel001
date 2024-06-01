@@ -1,4 +1,3 @@
-shabeeltech / README.md
 
 # Hey, I'm Shabeel 👋
 
