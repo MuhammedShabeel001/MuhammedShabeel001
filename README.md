@@ -1,7 +1,7 @@
 
 # Hey, I'm Shabeel 👋
 
-I'm a 19-year-old student from India who is passionate about mobile development and gadgets.
+I'm a 20-year-old student from India who is passionate about mobile development and gadgets.
 
 - Check out my [LinkedIn](https://www.linkedin.com/in/m-shabeel-010985279/) to learn more about me.
 
